@@ -26,6 +26,6 @@
 
 [![Star History Chart](https://contrib.rocks/image?repo=pengzhile/cocopilot)](https://github.com/pengzhile/cocopilot/graphs/contributors)
 
-### Star历史
+### Star History 
 
 ![Star History Chart](https://api.star-history.com/svg?repos=pengzhile/cocopilot&type=Date)
