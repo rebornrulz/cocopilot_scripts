@@ -24,7 +24,6 @@
 > anks to all the contributors who have made this project better!
 
 [Star History Chart](https://contrib.rocks/image?repo=pengzhile/cocopilot)
-(https://github.com/pengzhile/cocopilot/graphs/contributors)
 
 ### Star History 
 
