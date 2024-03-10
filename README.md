@@ -5,17 +5,17 @@
 ####  This project is just to help you authorize, there is no risk of data/code leakage.
 
 
-1. Use JetBrains suite IDE and install Copilot plugin.
-2. For Windows system, run cocopilot.bat.
-3. For macOS/Linux system, run cocopilot.sh.
-4. If you see done. please restart your ide., it means success.
-5. Just restart your IDE. This method also works for Vim/NeoVim.
+1. Use `JetBrains` suite IDE and install `Copilot` plugin.
+2. For `Windows` system, run `cocopilot.bat`
+3. For `macOS/Linux` system, run `cocopilot.sh`
+4. If you see `done. please restart your ide.`, it means success.
+5. Just restart your IDE. This method also works for `Vim/NeoVim`
 6. This is a little toy, may not be thoroughly tested, don't blame me.
 
 
-#### For VSCode, the steps are basically the same, run the corresponding vscode.sh/vscode.bat (if you are using VSCode to remotely connect to an Ubuntu server and the copilot extension is installed on the remote server, you need to run vscode-remote.sh), no need to run cocopilot.sh/cocopilot.bat.
+#### For `VSCode`, the steps are basically the same, run the corresponding `vscode.sh`/`vscode.bat` (if you are using VSCode to remotely connect to an Ubuntu server and the copilot extension is installed on the remote server, you need to run `vscode-remote.sh`), **no need to run
 **`cocopilot.sh`/`cocopilot.bat`。
-#### `After updating plugins in VSCode, you need to rerun the script, while for JetBrains, it is not necessary.
+#### `After updating plugins in `VSCode`, you need to rerun the script, while for JetBrains, it is not necessary.
 
 
 ### 贡献者们
