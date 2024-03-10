@@ -13,12 +13,11 @@
 6. This is a little toy, may not be thoroughly tested, don't blame me.
 
 
-#### For `VSCode`, the steps are basically the same, run the corresponding `vscode.sh`/`vscode.bat` (if you are using VSCode to remotely connect to an Ubuntu server and the copilot extension is installed on the remote server, you need to run `vscode-remote.sh`), **no need to run
-**`cocopilot.sh`/`cocopilot.bat`。
+#### For VSCode, the steps are basically the same. Execute the corresponding vscode.sh/vscode.bat (if you are using VSCode to remotely connect to an Ubuntu server and the copilot extension is installed on the remote server, you need to execute vscode-remote.sh), **no need to execute**`cocopilot.sh`/`cocopilot.bat`。
 #### `After updating plugins in `VSCode`, you need to rerun the script, while for JetBrains, it is not necessary.
 
 
-### 贡献者们
+### Contribute
 
 > If you happen to be well-connected and thick-skinned, you can [contribute](https://zhile.io/contribute-copilot-token) to benefit everyone.
 
